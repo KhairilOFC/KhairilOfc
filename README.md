@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/siegrin/siegrin/blob/main/Assets/doctor.fate.gif" />
 </p>
+</p>
 <p align="center">
 <a href="https://github.com/KhairilOfc"><img src="https://telegra.ph/file/6f24b811333be5ae271e2.jpg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/bangkelah_71"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
