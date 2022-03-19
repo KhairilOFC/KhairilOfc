@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ---------
-<p
-<img src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
+<p align="center">
+   <img
+src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
 </p>
 
  ---------
