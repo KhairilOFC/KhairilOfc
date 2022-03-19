@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px"> Hye! <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px">
 ---------
 <p align="center">
    <img
