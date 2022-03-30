@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#   <img src="https://github.com/KhairilOfc/KhairilOfc/blob/main/powerup.gif" width="29px"> Hi Everyone! <img src="https://github.com/KhairilOfc/KhairilOfc/blob/main/powerup.gif" width="29px">
+# *Hello Im Khairil* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---------
 <p align="center">
    <img
