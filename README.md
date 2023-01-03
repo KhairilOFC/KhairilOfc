@@ -25,6 +25,6 @@ src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
 <a href="https://github.com/KhairilOfc"><img src="https://telegra.ph/file/6f24b811333be5ae271e2.jpg"></a>&nbsp;&nbsp;
 <a href="#"><img title="Khairil" src="https://img.shields.io/badge/Khairil-red?colorA=%23ff0000&colorB=%23e61919&style=for-the-badge"></a>
 
-<a href="https://instagram.com/bangkelah_71"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/601123550412"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://instagram.com/coglah_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/60109102984"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <a href="https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ"><img src="https://img.shields.io/badge/YouTube-Khairil🅥-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ" /></a>
