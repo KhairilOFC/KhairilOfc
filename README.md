@@ -30,4 +30,4 @@ src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
 <a href="https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ"><img src="https://img.shields.io/badge/YouTube-Khairil🅥-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ" /></a>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v5zu6a70eacahuvoltyo1to4s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v5zu6a70eacahuvoltyo1to4s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/KhairilOFC)
