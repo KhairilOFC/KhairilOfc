@@ -28,4 +28,6 @@ src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
 <a href="https://instagram.com/coglah_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/60109102984"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <a href="https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ"><img src="https://img.shields.io/badge/YouTube-Khairil🅥-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCnVOCp4m5aj6BKDktn0GUxQ" /></a>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v5zu6a70eacahuvoltyo1to4s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1b2a63&bar_color=4fadb0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v5zu6a70eacahuvoltyo1to4s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
