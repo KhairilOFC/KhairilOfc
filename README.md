@@ -50,5 +50,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-word
 ### :fire: My Stats :
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhairilOFC&theme=dark" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhairilOFC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
