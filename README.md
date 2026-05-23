@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ---------
 <p align="center">
    <img
-src="https://raw.githubusercontent.com/KhairilOfc/KhairilOfc/main/doctor.fate.gif" width="500"/>
+src="https://raw.githubusercontent.com/KhairilOFC/KhairilOfc/main/doctor.fate.gif" width="500"/>
 </p>
 
  ---------
 <p align="center">
-<a href="https://github.com/KhairilOfc"><img src="https://telegra.ph/file/2eadcadcc711b81f24bd1.jpg"></a>&nbsp;&nbsp;
+<a href="https://github.com/KhairilOFC"><img src="https://telegra.ph/file/2eadcadcc711b81f24bd1.jpg"></a>&nbsp;&nbsp;
 <a href="#"><img title="Khairil" src="https://img.shields.io/badge/Khairil-red?colorA=%23ff0000&colorB=%23e61919&style=for-the-badge"></a>
 
 <a href="https://instagram.com/coglah_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
