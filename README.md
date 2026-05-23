@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---------
 <p align="center">
    <img
-src="https://github.com/KhairilOfc/KhairilOfc/blob/main/doctor.fate.gif" />
+src="https://raw.githubusercontent.com/KhairilOfc/KhairilOfc/main/doctor.fate.gif" width="500"/>
 </p>
 
  ---------
